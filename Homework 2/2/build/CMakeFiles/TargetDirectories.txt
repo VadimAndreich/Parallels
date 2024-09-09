@@ -1,0 +1,3 @@
+/home/v.perminov/DZ/2/build/CMakeFiles/integrate.dir
+/home/v.perminov/DZ/2/build/CMakeFiles/edit_cache.dir
+/home/v.perminov/DZ/2/build/CMakeFiles/rebuild_cache.dir
