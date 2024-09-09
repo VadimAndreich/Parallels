@@ -1,0 +1,10 @@
+task_thread result:	2.59706
+task_thread result:	1.63196
+task_thread result:	2.99581
+task_thread result:	0.127138
+task_thread result:	2.77183
+task_thread result:	2.87829
+task_thread result:	3.11322
+task_thread result:	2.81758
+task_thread result:	2.76877
+task_thread result:	2.97611

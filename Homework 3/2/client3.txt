@@ -1,0 +1,10 @@
+task_thread result:	387.663
+task_thread result:	225649
+task_thread result:	1.62879e+07
+task_thread result:	3.87261e+08
+task_thread result:	197438
+task_thread result:	336833
+task_thread result:	0.0920561
+task_thread result:	255.018
+task_thread result:	2579.34
+task_thread result:	1.391e+06

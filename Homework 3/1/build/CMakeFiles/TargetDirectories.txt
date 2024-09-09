@@ -1,0 +1,3 @@
+/home/v.perminov/DZ/3/1/build/CMakeFiles/dgemv.dir
+/home/v.perminov/DZ/3/1/build/CMakeFiles/edit_cache.dir
+/home/v.perminov/DZ/3/1/build/CMakeFiles/rebuild_cache.dir

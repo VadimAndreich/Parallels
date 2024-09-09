@@ -1,0 +1,1 @@
+/opt/nvidia/hpc_sdk/Linux_x86_64/23.11/compilers/bin/nvc++ CMakeFiles/server.dir/server.cpp.o -o server 
